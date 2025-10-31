@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+tmp/
+temp/
+
+# Node / yarn (if you ever add tooling)
+node_modules/
+
+# Build artifacts
+*.zip
+*.7z
+*.tar
+*.tar.gz
