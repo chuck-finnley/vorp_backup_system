@@ -28,7 +28,7 @@ This repo is ready-to-upload on GitHub and structured for easy drop-in testing.
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/vorp_backup_system.git
+   git clone https://github.com/chuck-finnley/vorp_backup_system.git
    ```
 
 2. Drop the folder into your RedM server’s `/resources/` directory:
